@@ -12,7 +12,7 @@ npm
 Instalación
 Clonar el repositorio:
 
-git clone https://github.com/tu-usuario/playwright-pokeapi-test.git
+git clone https://github.com/FelipeVillegas88/playwright-pokemon-test
 Entrar al directorio del proyecto:
 
 cd playwright-pokeapi-test
